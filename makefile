@@ -9,3 +9,6 @@ euler.o: euler.c euler.h
 	
 run:
 	./euler
+	
+clear:
+	rm *.o
